@@ -12,3 +12,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] BitBucket
+
+Виконав Прухницький Віталій
